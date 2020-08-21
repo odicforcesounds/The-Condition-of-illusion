@@ -84,3 +84,20 @@ button:active {
   text-align: center;
   margin: 0 0.5rem;
 }
+
+.header{
+  text-align: center;
+  font-size:26px;
+  color:cyan;
+  ;
+}
+
+.slogan{
+  text-align: center;
+  color:cyan;
+  font-size:26px;;
+}
+
+a{
+  color:lightyellow;
+}
