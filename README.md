@@ -1,5 +1,9 @@
 # [The-Condition-of-illusion](https://odicforcesounds.bandcamp.com/track/boo-boo-the-condition-of-illusion)
 
+![./img/BooBooTheConditionOfillusion.jpg]
+
+
+
 Originaly with the name "Monster Killer", this version doesn't intend to kill the Monster, but to educate the Monster..
 
 ## TODOS: 
