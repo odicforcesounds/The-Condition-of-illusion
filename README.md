@@ -1,6 +1,6 @@
 # [The-Condition-of-illusion](https://odicforcesounds.bandcamp.com/track/boo-boo-the-condition-of-illusion)
 
-![./img/BooBooTheConditionOfillusion.jpg]
+![BooBooTheConditionOfillusion][./img/BooBooTheConditionOfillusion.jpg]
 
 
 
